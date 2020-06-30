@@ -1,0 +1,89 @@
+1)What is cloud?
+=============
+
+"The cloud" refers to servers that are accessed over the Internet, and the software
+ and databases that run on those servers. Cloud servers are located
+ in data centers all over the world. By using cloud computing, users and companies 
+don't have to manage physical servers themselves or run software applications on their own machines.
+
+In cloud the users can access data (files and application) via internet with any local devices
+that has a connection to internet, meaning they dont have to manage the data locally, this is how 
+we can access emails even after switching our devices and still able to view instagram photos or answers 
+on quora without saving them  locally.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2) Different  type of cloud?
+=====================
+Private cloud: A private cloud is a server, data center, or distributed network wholly dedicated to one organization.
+===========
+example= USA government has bought a private cloud from amazon.
+
+Public cloud: A public cloud is a service run by an external vendor that may include servers in one or multiple data centers.
+==========   Unlike a private cloud, public clouds are shared by multiple organizations. Using virtual machines,
+	       individual servers may be shared by different companies, a situation that is called "multitenancy" because multiple
+	       tenants are renting server space within the same server.
+	       example= AWS- amazon web services, azure- microsoft.
+
+Hybrid cloud: Hybrid cloud deployments combine public and private clouds, and may even include on-premises legacy servers.
+===========  An organization may use their private cloud for some services and their public cloud for others, 
+	         or they may use the public cloud as backup for their private cloud.
+ 	         microsoft- azure.
+	         Amazon Web Services (AWS)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3) Pro and cons of cloud?
+   ===================
+ PROS
+======
+
+1)Cost Savings:
+Cost saving is the biggest benefit of cloud computing. It helps you to save substantial capital cost as it does not need any physical hardware investments. 
+Also, you do not need trained personnel to maintain the hardware. The buying and managing of equipment is done by the cloud service provider.
+
+2) latest technology:
+Cloud computing offers a competitive edge over your competitors. It helps you to access the latest and applications any time without spending your time and money on installations.
+
+3)High Speed
+Cloud computing allows you to deploy your service quickly in fewer clicks. This faster deployment allows you to get the resources required for your system within fewer minutes.
+
+4)Back-up and restore data
+Once the data is stored in a Cloud, it is easier to get the back-up and recovery of that, which is otherwise very time taking process on-premise.
+
+5)Reliability
+Reliability is one of the biggest pluses of cloud computing. You can always get instantly updated about the changes.
+
+6)Mobility
+Employees who are working on the premises or at the remote locations can easily access all the could services. All they need is an Internet connectivity.
+
+7)Unlimited storage capacity
+The cloud offers almost limitless storage capacity. At any time you can quickly expand your storage capacity with very nominal monthly fees.
+
+8)Collaboration
+The cloud computing platform helps employees who are located in different geographies to collaborate in a highly convenient and secure manner.
+
+9)Quick Deployment
+Last but not least, cloud computing gives you the advantage of rapid deployment. So, when you decide to use the cloud, your entire system can
+ be fully functional in very few minutes. Although, the amount of time taken depends on what kind of technologies are used in your business.
+
+CONS
+=====
+
+Performance Can Vary
+When you are working in a cloud environment, your application is running on the server which simultaneously provides resources to other businesses.
+ Any greedy behavior or DDOS attack on your tenant could affect the performance of your shared resource.
+
+Technical Issues
+Cloud technology is always prone to an outage and other technical issues. Even, the best cloud service provider companies may face this type
+ of trouble despite maintaining high standards of maintenance.
+
+Security Threat in the Cloud
+Another drawback while working with cloud computing services is security risk. Before adopting cloud technology, you should be well aware of the fact that you will be sharing all your
+ company's sensitive information to a third-party cloud computing service provider. Hackers might access this information.
+
+Internet Connectivity
+Good Internet connectivity is a must in cloud computing. You can't access cloud without an internet connection. Moreover, you don't have any other way to gather data from the cloud.
+
+Lacks of Support
+Cloud Computing companies fail to provide proper support to the customers. Moreover, they want their user to depend on FAQs or online help, which can be a tedious job for non-technical persons.
